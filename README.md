@@ -18,3 +18,6 @@
 [Лекции](https://github.com/ALex2002Sim/FunctionalAnalysis/tree/main/sem7/Lectures)
 
 [ДЗ](https://github.com/ALex2002Sim/FunctionalAnalysis/tree/main/sem7/HomeWork)
+
+### 9 семестр
+[Лекции](https://github.com/ALex2002Sim/FunctionalAnalysis/tree/main/sem9)
